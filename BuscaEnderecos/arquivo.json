@@ -1,0 +1,54 @@
+[
+  {
+    "cep": "17514-557",
+    "logradouro": "Alameda Helena de Carvalho Tosin",
+    "complemento": "",
+    "bairro": "Village Damha Marília",
+    "localidade": "Marília",
+    "uf": "SP",
+    "ibge": 3529005,
+    "gia": 4388,
+    "ddd": 14,
+    "siafi": 6681,
+    "erro": false
+  },
+  {
+    "cep": "17514-571",
+    "logradouro": "Rua do Angico",
+    "complemento": "",
+    "bairro": "Residencial Costa do Ipê",
+    "localidade": "Marília",
+    "uf": "SP",
+    "ibge": 3529005,
+    "gia": 4388,
+    "ddd": 14,
+    "siafi": 6681,
+    "erro": false
+  },
+  {
+    "cep": "17514-580",
+    "logradouro": "Rua Luiz Ferrari",
+    "complemento": "",
+    "bairro": "Jardim Santa Gertrudes",
+    "localidade": "Marília",
+    "uf": "SP",
+    "ibge": 3529005,
+    "gia": 4388,
+    "ddd": 14,
+    "siafi": 6681,
+    "erro": false
+  },
+  {
+    "cep": "17514-520",
+    "logradouro": "Rua Antônio Pinheiro Faro",
+    "complemento": "",
+    "bairro": "Vila Romana",
+    "localidade": "Marília",
+    "uf": "SP",
+    "ibge": 3529005,
+    "gia": 4388,
+    "ddd": 14,
+    "siafi": 6681,
+    "erro": false
+  }
+]
